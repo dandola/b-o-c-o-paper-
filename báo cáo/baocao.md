@@ -214,4 +214,4 @@ giữa các nút có trong vòng DHT và cân bằng tải về các items đư�
 - hình bên trái là số lần lookup lỗi tương ứng với x% node lỗi. Từ hình vẽ cho thấy, số lượng node lỗi tăng, thì số lần lookup lỗi tăng theo
 - hình bên phải là tỉ lệ lookup thành công tính theo đơn vị %. từ hình vẽ cho thấy tỉ lệ lookup thành công giảm mạnh khi khi số lượng node lỗi là 80% và 90%.
 
-<img src="../báo cáo/lookup.PNG">
+<img src="../báo cáo/lookup.png">
